@@ -1,4 +1,4 @@
 requests==2.32.3
 pandas==2.2.2
-spacy == 3.8.2
+spacy == 3.8.0
 matplotlib == 3.9.2
