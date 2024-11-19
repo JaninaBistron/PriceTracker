@@ -1,7 +1,6 @@
 # Price Tracker
 
-Price and Product Tracker based on Python, requests and BeautifulSoup.
-NLP methods will be added soon.
+Price and NLP-Product Tracker based on Python, requests, BeautifulSoup and spaCy.
 
 For training puposes only!
 
