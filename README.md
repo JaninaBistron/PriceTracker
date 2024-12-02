@@ -4,7 +4,7 @@ Price- and Product-Tracker for Cameras based on Python, requests, BeautifulSoup 
 
 For training puposes only!
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JaninaBistron/PriceTracker/main?labpath=PriceTracker.ipynb) (currently not working because of dependency issues)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JaninaBistron/PriceTracker/main?labpath=PriceTracker.ipynb)
 
 **Next steps:**
 - ML on preprocessed texts
