@@ -6,6 +6,6 @@ For training puposes only!
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JaninaBistron/PriceTracker/main?labpath=PriceTracker.ipynb)
 
-**Next steps:**
-- ML on preprocessed texts
-- Information retrievel on entities/technical information (like lenses)
+**New:**
+- Information retrievel on lenses
+- ML on bigger data sets for predicting deals
