@@ -1,6 +1,6 @@
 # Camera Price & Product Tracker
 
-Price- and Product-Tracker for Cameras based on Python, requests, BeautifulSoup and spaCy/NLP.
+NLP Price- and Product-Tracker for Cameras based on Python, requests, BeautifulSoup, spaCy, fasttext and sklearn.
 
 For training puposes only!
 
